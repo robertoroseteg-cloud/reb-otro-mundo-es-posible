@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/reb-otro-mundo-es-posible</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+
+    <item>
+      <title>Pediatría y masculinidades: una conversación necesaria</title>
+      <description>Otro mundo es posible – Rebelion — https://rebelion.org/pediatria-y-masculinidades-una-conversacion-necesaria/</description>
+      <link>https://rebelion.org/pediatria-y-masculinidades-una-conversacion-necesaria/</link>
+      <guid isPermaLink="false">6e3223a210de6ff0</guid>
+      <pubDate>Mon, 06 Jul 2026 03:15:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-otro-mundo-es-posible/episodios/6e3223a210de6ff0.mp3" length="1835424" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Piden a Alemania poner fin a la militarización y a los envíos de armas a Israel</title>
+      <description>Otro mundo es posible – Rebelion — https://rebelion.org/piden-a-alemania-a-poner-fin-a-la-militarizacion-y-a-los-envios-de-armas-a-israel/</description>
+      <link>https://rebelion.org/piden-a-alemania-a-poner-fin-a-la-militarizacion-y-a-los-envios-de-armas-a-israel/</link>
+      <guid isPermaLink="false">615707556ea18740</guid>
+      <pubDate>Mon, 06 Jul 2026 03:15:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-otro-mundo-es-posible/episodios/615707556ea18740.mp3" length="1804608" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ecopaternidades: criar un hijo en tiempos de crisis socioambiental</title>
+      <description>Otro mundo es posible – Rebelion — https://rebelion.org/ecopaternidades-criar-un-hijo-en-tiempos-de-crisis-socioambiental/</description>
+      <link>https://rebelion.org/ecopaternidades-criar-un-hijo-en-tiempos-de-crisis-socioambiental/</link>
+      <guid isPermaLink="false">8487e6a0fa3a6613</guid>
+      <pubDate>Mon, 06 Jul 2026 03:15:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-otro-mundo-es-posible/episodios/8487e6a0fa3a6613.mp3" length="1638864" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los límites de lo posible</title>
+      <description>Otro mundo es posible – Rebelion — https://rebelion.org/los-limites-de-lo-posible/</description>
+      <link>https://rebelion.org/los-limites-de-lo-posible/</link>
+      <guid isPermaLink="false">a9de2bf5b7788285</guid>
+      <pubDate>Mon, 06 Jul 2026 03:14:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-otro-mundo-es-posible/episodios/a9de2bf5b7788285.mp3" length="4261248" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los cambios necesarios en el partido de la mundialización</title>
+      <description>Otro mundo es posible – Rebelion — https://rebelion.org/los-cambios-necesarios-en-el-partido-de-la-mundializacion/</description>
+      <link>https://rebelion.org/los-cambios-necesarios-en-el-partido-de-la-mundializacion/</link>
+      <guid isPermaLink="false">9359d05b2d2ce83f</guid>
+      <pubDate>Mon, 06 Jul 2026 03:14:17 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-otro-mundo-es-posible/episodios/9359d05b2d2ce83f.mp3" length="2519424" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
