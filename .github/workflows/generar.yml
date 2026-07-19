@@ -2,8 +2,8 @@ name: Generar episodios
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # diario a las 12:00 UTC (~06:00 en Puebla)
-  workflow_dispatch:        # permite ejecutarlo manualmente
+    - cron: '29 12 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,17 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
       - name: Instalar dependencias
         run: pip install -r requirements.txt
-
       - name: Generar audios y feed
         run: python generar.py
-
       - name: Publicar cambios
         run: |
           git config user.name "bot-podcast"
